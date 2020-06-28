@@ -16,6 +16,6 @@ description: sign-up form for more information
 
 ### <input type="email" name="email"> 
 
-<break>
+<br>
 
-<button type="submit">Send</button> </form>
+<center><button type="submit">Send</button> </form>
