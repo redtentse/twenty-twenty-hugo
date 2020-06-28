@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "twentytwenty"
-title = "Twenty Twenty Hugo"
+title = "The Red Tent // Stockholm"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
