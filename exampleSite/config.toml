@@ -35,7 +35,7 @@ description = "This is meta description"
 heading = "Red Tent // Stockholm"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "A gathering for all women who want to celebrate their womanhood and share space with others! We meet at every new moon in a Stockholm location."
+heading = "A gathering for all women who want to reflect on their womanhood and share space with others! <br> We meet at every new moon to enjoy each other's company, to warm each other's hearts and to refresh our souls."
 [params.call_to_action]
 button_label = "Join In"
 button_url = "contact"
