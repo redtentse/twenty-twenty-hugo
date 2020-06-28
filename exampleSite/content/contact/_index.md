@@ -14,7 +14,7 @@ description: sign-up form for more information
 
 ### Your E-mail address
 
-### <input type="email" name="email"> 
+<input type="email" name="email">
 
 <br>
 
