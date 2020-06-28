@@ -43,7 +43,7 @@ content = "All women are welcome to our gatherings. Add your email to our list f
 enable = true
 title = "Would you like to join us?"
 [params.footer]
-content = "Red Tent Stockholm is a community organization for all who wish to meet other women and to enjoy community and support.."
+content = "Red Tent Stockholm is a community organization for all who wish to meet other women and to enjoy community and support."
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 title = "About This Site"
 [params.gallery]
