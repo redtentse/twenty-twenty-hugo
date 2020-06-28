@@ -1,5 +1,5 @@
 ---
-title: About Red Tent // Stockholm
+title: About Our Group
 description: About the group
 
 ---
