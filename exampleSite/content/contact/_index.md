@@ -1,10 +1,7 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: Sign Up
+bg_image: images/2020-landscape-2.png
+description: This is meta description
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+---
+<form action="[https://getform.io/f/90d4734d-956d-41db-b285-c2898d6a7d60](https://getform.io/f/90d4734d-956d-41db-b285-c2898d6a7d60 "https://getform.io/f/90d4734d-956d-41db-b285-c2898d6a7d60")" method="POST"> <input type="text" name="name"> <input type="email" name="email"> <input type="text" name="message (optional)"> <button type="submit">Send</button> </form>
