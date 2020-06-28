@@ -2,6 +2,10 @@
 title: Join In
 bg_image: images/2020-landscape-2.png
 description: sign-up form for more information
+menu:
+  desktop:
+    URL: contact
+    weight: 1
 
 ---
 ## We'll send you information about upcoming gatherings
