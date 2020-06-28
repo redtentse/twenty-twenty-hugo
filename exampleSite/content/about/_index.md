@@ -1,6 +1,6 @@
 ---
 title: About Red Tent // Stockholm
-description: About ths group
+description: About the group
 
 ---
 Our purpose is to unite women, to share information and support around women's reproductive cycles, and to build community and power. 
