@@ -35,7 +35,7 @@ description = "This is meta description"
 heading = "Red Tent // Stockholm"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "A gathering for all women who want to reflect on their womanhood and share space with others! <br> We meet at every new moon to enjoy each other's company, to warm each other's hearts and to refresh our souls."
+heading = "A gathering for all women who want to reflect on their womanhood and share space with others! <br><br> We meet at every new moon to enjoy each other's company, to warm each other's hearts and to refresh our souls."
 [params.call_to_action]
 button_label = "Join In"
 button_url = "contact"
@@ -52,7 +52,6 @@ enable = true
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
-
 [taxonomies]
 author = "author"
 category = "categories"
