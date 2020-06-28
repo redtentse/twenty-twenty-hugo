@@ -13,14 +13,10 @@ unsafe = true
 [[menu.main]]
 URL = "sample-page"
 name = "Frequently Asked"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Join In"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
 weight = 3
 [[menu.main]]
 URL = "about"
