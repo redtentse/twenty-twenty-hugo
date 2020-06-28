@@ -14,3 +14,5 @@ description: Your Questions Answered
 since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the
 Gotham community.</p>
 </blockquote>
+
+![](images/2020-three-quarters-3.png)
