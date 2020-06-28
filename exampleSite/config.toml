@@ -32,21 +32,19 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Red Tent // Stockholm"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "A gathering for all women who want to celebrate their womanhood and share space with others. We meet at every new moon."
 [params.call_to_action]
-button_label = "Contact Us"
+button_label = "Join In"
 button_url = "contact"
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+content = "All women are welcome to our gatherings. Add your email to our list for information."
 enable = true
-title = "Contact us for more information."
+title = "Would you like to join us?"
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
+content = "Red Tent Stockholm is a community organization for all who wish to meet other women and to enjoy community and support.."
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 title = "About This Site"
 [params.gallery]
 enable = true
@@ -54,12 +52,7 @@ enable = true
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
-[params.social]
-email = "#"
-facebook = "#"
-instagram = "#"
-twitter = "#"
-yelp = "#"
+
 [taxonomies]
 author = "author"
 category = "categories"
