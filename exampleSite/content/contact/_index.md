@@ -8,10 +8,14 @@ description: sign-up form for more information
 
 <form action="[https://getform.io/f/90d4734d-956d-41db-b285-c2898d6a7d60](https://getform.io/f/90d4734d-956d-41db-b285-c2898d6a7d60 "https://getform.io/f/90d4734d-956d-41db-b285-c2898d6a7d60")" method="POST"> 
 
+### Your Name
+
 <input type="text" name="name">
+
+### Your E-mail address
 
 ### <input type="email" name="email"> 
 
-<input type="text" name="message (optional)"> 
+<break>
 
 <button type="submit">Send</button> </form>
