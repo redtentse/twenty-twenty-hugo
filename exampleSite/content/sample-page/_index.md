@@ -1,5 +1,5 @@
 ---
-title: Q + A 
+title: Q + A
 description: Your Questions Answered
 
 ---
@@ -24,6 +24,5 @@ description: Your Questions Answered
 <blockquote class="wp-block-quote"> <p> Why do we meet at the new moon? </p> </blockquote>
 
 <p> It's poetic. Some women's cycles are closely aligned with moon cycles, and some women's cycles aren't. </p>
-
 
 ![](images/2020-three-quarters-3.png)
