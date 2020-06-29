@@ -6,7 +6,7 @@ description: sign-up form for more information
 ---
 ## We'll send you information about upcoming gatherings
 
-<form method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true">
 
   <p>
 
@@ -22,7 +22,7 @@ description: sign-up form for more information
 
   <p>
 
-    <label>Optional Message/Question <textarea name="message"></textarea></label>
+    <label>(Optional) Question/Message: <textarea name="message"></textarea></label>
 
   </p>
 
