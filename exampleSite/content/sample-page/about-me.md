@@ -7,6 +7,8 @@ draft = true
 image = ""
 tags = []
 title = "About Me"
+[menu.main]
+weight = 4
 
 +++
 ## About Me
