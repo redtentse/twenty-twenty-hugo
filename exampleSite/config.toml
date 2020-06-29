@@ -11,21 +11,21 @@ title = "Stockholm Women's Circle"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "sample-page"
-name = "More Information"
-weight = 4
+URL = "/"
+name = "Home"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About the Circle"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Join In"
 weight = 3
 [[menu.main]]
-URL = "about"
-name = "About Us"
-weight = 2
-[[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "sample-page"
+name = "Frequently Asked"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

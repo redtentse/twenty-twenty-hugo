@@ -1,6 +1,9 @@
 ---
 title: Q + A
 description: Your Questions Answered
+menu:
+  desktop:
+    weight: 2
 
 ---
 <p>We are coming together in a new way and <b>you</b> are invited </p>

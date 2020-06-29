@@ -7,6 +7,8 @@ draft = true
 image = "/images/img_20200606_180533719-1.jpg"
 tags = []
 title = "About Me"
+[menu.main]
+weight = 5
 
 +++
 ## About Me
