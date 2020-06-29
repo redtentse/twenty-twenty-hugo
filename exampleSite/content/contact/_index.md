@@ -8,29 +8,19 @@ description: sign-up form for more information
 
 <form name="contact" method="POST" data-netlify="true">
 
-  <p>
+<br>
 
     <label>Your Name: <input type="text" name="name" /></label>   
 
-  </p>
+<br>    <label>Your Email: <input type="email" name="email" /></label>
 
-  <p>
+<br>  
 
-    <label>Your Email: <input type="email" name="email" /></label>
+  <label>(Optional) Question/Message: <textarea name="message"></textarea></label>
 
-  </p>
-
-  <p>
-
-    <label>(Optional) Question/Message: <textarea name="message"></textarea></label>
-
-  </p>
-
-  <p>
+  <br>
 
     <button type="submit">Send</button>
-
-  </p>
 
 </form>
 
