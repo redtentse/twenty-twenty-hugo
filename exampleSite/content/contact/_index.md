@@ -22,7 +22,9 @@ description: sign-up form for more information
 
 <br>
 
-<center><button type="submit">Send</button> </form>
+<center><button type="submit">Send</button> 
+
+</form>
 
 <br>
 
