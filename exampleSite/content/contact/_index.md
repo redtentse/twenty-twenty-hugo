@@ -10,17 +10,19 @@ description: sign-up form for more information
 
 <br>
 
-    <label>Your Name: <input type="text" name="name" /></label>
+<label>Your Name: <input type="text" name="name" /></label>
 
-<br>    <label>Your Email: <input type="email" name="email" /></label>
+<br>    
+
+<label>Your Email: <input type="email" name="email" /></label>
 
 <br>  
 
-  <label>(Optional) Question/Message: <textarea name="message"></textarea></label>
+<label>(Optional) Question/Message: <textarea name="message"></textarea></label>
 
   <br>
 
-    <button type="submit"> Send </button>
+<button type="submit"> Send </button>
 
 </form>
 
