@@ -16,11 +16,6 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/about
-  label: About
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/contact
   label: Contact
   create: none
