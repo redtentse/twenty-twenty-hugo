@@ -32,4 +32,8 @@ menu:
 
 <p> It's poetic. Some women's cycles are closely aligned with moon cycles, and some women's cycles aren't. </p>
 
+<blockquote class="wp-block-quote"> <p> Jag vill inte prata engelska... </p> </blockquote>
+
+<p> Det förstår jag. Jag försöker vara så öppen som möjligt eftersom jag är själv invandrare. Det är såklart du kan prata svenska i cirkeln om det är det som känns bra. </p>
+
 ![](images/2020-three-quarters-3.png)
