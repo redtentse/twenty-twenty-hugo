@@ -18,7 +18,7 @@ menu:
 
 <blockquote class="wp-block-quote"> <p> That sounds nice, but what are we going to do exactly? </p> </blockquote>
 
-<p> We will meet throughout the year on the evening of the new moon. The next new moon is on July 20th, and this will be our first gathering. At our meeting we will (1) commune over food and drinks (2) do a gentle group meditation and (3) form a sharing circle where each participant has the space to express whatever she chooses in relation to her current experiences of womanhood, where she can be of judgement and where she can be heard and validated. </p>
+<p> We will meet throughout the year on the evening of the new moon. The next new moon is on July 20th, and this will be our first gathering. At our meeting we will (1) commune over food and drinks (2) do a gentle group meditation and maybe even some crystal healing and (3) form a sharing circle where each participant has the space to express whatever she chooses in relation to her current experiences of womanhood, where she can be of judgement and where she can be heard and validated. </p>
 
 <blockquote class="wp-block-quote"> <p> Is this some kind of a spiritual/religious thing? I'm just a normal person. </p> </blockquote>
 
