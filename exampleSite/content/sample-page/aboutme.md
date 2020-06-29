@@ -1,6 +1,6 @@
 ---
-title: Q + A
-description: Your Questions Answered
+title: About Me
+description: who am I?
 menu:
   main:
     URL: about-me
