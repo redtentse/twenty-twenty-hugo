@@ -2,6 +2,10 @@
 title: Q + A
 description: Your Questions Answered
 menu:
+  main:
+    URL: sample-page
+    name: About the circle
+    weight: 3
   desktop:
     weight: 2
 

@@ -7,7 +7,7 @@ image = ""
 tags = []
 title = "About Me"
 [menu.main]
-weight = 5
+weight = 4
 
 +++
 ## About Me
