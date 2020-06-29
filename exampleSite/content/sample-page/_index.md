@@ -26,7 +26,11 @@ menu:
 
 <blockquote class="wp-block-quote"> <p> Can you tell me about the practicalities? </p> </blockquote>
 
-<p> We will meet in the evening on July 20th. The meeting will last about 2 hours. Sign up on the contact page and you'll receive information about the location. If you want to wear red, that can be poetic. You can bring a snack to share with others, but you don't have to. Participants are encouraged to donate 150 sek (50 sek for youths up to 26). </p>
+<p> We will meet in the evening on July 20th. The meeting will last about 2 hours. Sign up on the contact page and you'll receive information about the location. If you want to wear red, that can be poetic. You can bring a snack to share with others, but you don't have to. Participants are encouraged to donate 100 sek (50 sek for youths up to 26). </p>
+
+<blockquote class="wp-block-quote"> <p> What about the covid situation? </p> </blockquote>
+
+<p> We will meet outside to take advantage of the summer weather and to be safe. Future events will be held indoors as the public health situation permits. </p>
 
 <blockquote class="wp-block-quote"> <p> Why do we meet at the new moon? </p> </blockquote>
 
