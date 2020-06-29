@@ -12,7 +12,7 @@ title = "Stockholm Women's Circle"
 unsafe = true
 [[menu.main]]
 URL = "sample-page"
-name = "Frequently Asked"
+name = "More Information"
 weight = 4
 [[menu.main]]
 URL = "contact"
