@@ -6,26 +6,6 @@ description: sign-up form for more information
 ---
 ## Sign up to receive information about the upcoming gathering!
 
-<form method="POST" action="[https://formspree.io/](https://formspree.io/you@example.com "https://formspree.io/you@example.com")voraciouslaptop@gmail.com">
-
-### Your Name
-
-<input type="text" name="name">
-
-### Your E-mail address
-
-<input type="email" name="email">
-
-### (Optional) Message/Question
-
-<input type="text" name="message">
-
-<br>
-
-<center><button type="submit">Send</button>
-
-</form>
-
-<br>
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSeJ3cHef3AULb_sMJwXOjQHFtPEzhzFLuJdRzvPMOKf66ZURQ/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSeJ3cHef3AULb_sMJwXOjQHFtPEzhzFLuJdRzvPMOKf66ZURQ/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSeJ3cHef3AULb_sMJwXOjQHFtPEzhzFLuJdRzvPMOKf66ZURQ/viewform?embedded=true")" width="640" height="697" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ![](images/2020-three-quarters-1.png)
