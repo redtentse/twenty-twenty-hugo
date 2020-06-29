@@ -2,8 +2,10 @@
 title: About Me
 description: who am I?
 menu:
-  desktop:
+  main:
     weight: 4
+  desktop:
+    weight: 3
 
 ---
 ## About Me
