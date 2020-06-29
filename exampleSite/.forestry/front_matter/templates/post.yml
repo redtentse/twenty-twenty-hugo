@@ -26,4 +26,3 @@ fields:
   description: Meta description
 pages:
 - exampleSite/content/about-me.md
-- exampleSite/content/sample-page/about-me.md

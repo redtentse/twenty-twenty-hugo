@@ -2,10 +2,6 @@
 title: About Me
 description: who am I?
 menu:
-  main:
-    URL: about-me
-    name: About Me
-    weight: 4
   desktop:
     weight: 4
 
