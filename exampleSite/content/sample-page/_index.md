@@ -6,11 +6,11 @@ menu:
     weight: 2
 
 ---
-<p>We are coming together in a new way and <b>you</b> are invited </p>
+<p>We are coming together in a new way and <b>you</b> are invited. On this page I'm providing some information in a question and answer format. If you would like more information, please use the contact form. </p>
 
 <blockquote class="wp-block-quote"> <p> What is this all about? </p> </blockquote>
 
-<p> The Red Tent Movement is an international movement of women to come together. The goal is to create a supportive community, also known as a women's circle or a goddess circle. Together we can leave behind the shame and silence associated with menstruation and women's monthly cycles. Red Tent // Stockholm is an initiative to create a new space where this is possible. </p>
+<p> The Red Tent Movement is an [international movement](http://redtenttemplemovement.com/) of women to come together. The goal is to create a supportive community, also known as a women's circle. Together we can leave behind the shame and silence associated with menstruation and women's monthly cycles. Red Tent // Stockholm is an initiative to create a new space where this is possible. </p>
 
 <blockquote class="wp-block-quote"> <p> That sounds nice, but what are we going to do exactly? </p> </blockquote>
 
