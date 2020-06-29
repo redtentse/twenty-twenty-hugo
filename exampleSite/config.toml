@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "twentytwenty"
-title = "The Red Tent Stockholm"
+title = "Stockholm Women's Circle"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
