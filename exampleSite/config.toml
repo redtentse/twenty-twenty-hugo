@@ -22,7 +22,7 @@ weight = 2
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Themefisher"
-description = "This is meta description"
+description = "A website for a women's circle in stockholm"
 [params.banner]
 heading = "Red Tent // Stockholm"
 image = "images/2020-landscape-1-2.png"
