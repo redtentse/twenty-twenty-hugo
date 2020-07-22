@@ -24,7 +24,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "A website for a women's circle in stockholm"
 [params.banner]
-heading = "Women's Circle in Stockholm"
+heading = "Women's Circle // Stockholm"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "Red Tent Stockholm will meet for the first time on the next new moon: July 20th. <br> <br> This will be a gathering for all women who want to reflect on their womanhood and share space with others! <br><br> We will warm each other's hearts and refresh our souls."
