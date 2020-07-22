@@ -12,9 +12,9 @@ menu:
 
 My name is Rita and I would like to create a community of women.
 
-<br> I am 29 years old and over the last few years, I've been trying to bring my life more in line with my own hormonal cycle. It has been an interesting journey. I've realized how much easier it is to live in accordance to my body's rhythms. I've also realized that our world makes this difficult: it's kind of built for people who live in a steady state, expecting all weeks to be roughly similar. <br>
+<br> I don't want to be silent about things that matter for me, and I want to create a space where women can share discussions about the experiences of womanhood. I want to make space to discuss the issues without feeling like they need to be solved or minimized. I want to give us all the gift of a supportive and kind community, the opportunity to be heard and to be seen.<br>
 
-I think it would be beautiful to find more women to share the journey with me. For me, this isn't just about the hormonal cycle but about the shared experience of womanhood and how we experience being women in 2020. I really hope that you join me.
+I really hope that you join me.
 
 <br>
 
