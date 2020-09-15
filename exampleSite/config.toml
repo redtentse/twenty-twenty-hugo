@@ -27,7 +27,7 @@ description = "A website for a women's circle in stockholm"
 heading = "Women's Circle // Stockholm"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "Our women's circle will meet again on the next new moon: August 18th. <br> <br> This will be a gathering for all women who want to reflect on their womanhood and share space with others! <br><br> We will warm each other's hearts and refresh our souls."
+heading = "Our women's circle will meet again on the next new moon: September 17th. <br> <br> This will be another gathering for us to reflect on our womanhood and share space with others! <br><br> We will warm each other's hearts and refresh our souls."
 [params.call_to_action]
 button_label = "Join In"
 button_url = "contact"
