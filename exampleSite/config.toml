@@ -33,7 +33,7 @@ button_label = "Join In"
 button_url = "contact"
 content = "All women are welcome to take part! Add your email to our list for information about our next meeting!"
 enable = true
-title = "Would you like to join us?"
+title = "Join us!"
 [params.footer]
 content = "Red Tent Stockholm is a newly organized community organization for all who wish to meet other women and to enjoy community and support."
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
