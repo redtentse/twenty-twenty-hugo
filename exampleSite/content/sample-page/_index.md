@@ -18,7 +18,7 @@ menu:
 
 <blockquote class="wp-block-quote"> <p> That sounds nice, but what are we going to do exactly? </p> </blockquote>
 
-<p> We plan to meet throughout the year on the dates of the new moon. The main focus of our meeting is to form a sharing circle where each participant has the space to express whatever she chooses in relation to her current experiences of womanhood, where she can be of judgement and where she can be heard and validated. We also do shared meditations, journaling, and other nourishing activities. </p>
+<p> We meet throughout the year on the dates of the new moon. The main focus of our meeting is to form a sharing circle where each participant has the space to express whatever she chooses in relation to her current experiences of womanhood, where she can be of judgement and where she can be heard and validated. We also do shared meditations, journaling, and other nourishing activities. </p>
 
 <blockquote class="wp-block-quote"> <p> Is this some kind of a spiritual/religious thing? I'm just a normal person. </p> </blockquote>
 
